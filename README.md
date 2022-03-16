@@ -38,5 +38,5 @@ go run main.go -command buy -id <bookID> -quantity <quantity>
 go run main.go -command buy -id 5 -quantity 2
 ```
 
-###default
+### default
 Returns how the flag should be used.
