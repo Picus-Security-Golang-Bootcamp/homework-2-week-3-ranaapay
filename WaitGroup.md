@@ -73,7 +73,7 @@ WaitGroup is concurrency safe.
 
 
 ________________________________________________
-<h3>Source</h3>
+### Source
 * https://www.geeksforgeeks.org/using-waitgroup-in-golang/?ref=lbp
 * https://gobyexample.com/waitgroups
 * https://www.reply.com/alpha-reply/en/content/go-concurrency-with-waitgroup
